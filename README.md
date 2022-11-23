@@ -10,7 +10,7 @@
 
 <h2> 📜 Certifications</h2>
  
-![comptia-security-ce-certification](https://user-images.githubusercontent.com/118860839/203450750-135c4f88-0301-4261-807f-f2e5e1e20d9c.png)
+Sec+.png
 https://www.credly.com/badges/c364a5b5-3e1b-4324-b719-b417768199e4/public_url
 
 ![certified-in-cybersecurity-cc](https://user-images.githubusercontent.com/118860839/203451791-ab3020d9-318b-4249-903b-d630d8867e0b.png)

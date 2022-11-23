@@ -33,8 +33,7 @@ https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url
 [instagram]: https://www.instagram.com/driventoxplore/
 [linkedin]: https://linkedin.com/in/darrenpatenaude
 
-<!--
-**DarrenPatenaude/DarrenPatenaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 

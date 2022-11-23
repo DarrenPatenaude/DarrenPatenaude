@@ -19,7 +19,7 @@
 <h2> 📺 My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>
   
 - [The Grotto](https://www.youtube.com/watch?v=_UkSZ-UgrO8)
-- [Harrison Lake to Nahalatch Lake (Almost)](https://www.youtube.com/watch?v=ujPKglW9_qQ)
+- [Harrison Lake to Nahatlatch Lake (Almost)](https://www.youtube.com/watch?v=ujPKglW9_qQ)
   
 <h2> 🔗 Connect with me</h2>
 

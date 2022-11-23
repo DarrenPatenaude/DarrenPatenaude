@@ -9,6 +9,8 @@
  
 ![comptia-security-ce-certification](https://user-images.githubusercontent.com/118860839/203450750-135c4f88-0301-4261-807f-f2e5e1e20d9c.png)
 
+![certified-in-cybersecurity-cc](https://user-images.githubusercontent.com/118860839/203451791-ab3020d9-318b-4249-903b-d630d8867e0b.png)
+
  
 <h2> 📺 My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>
   

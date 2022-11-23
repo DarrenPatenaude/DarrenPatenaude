@@ -5,6 +5,9 @@
 - <b>Active Directory</b>
   - [Active Directory Home Lab](https://github.com/darrencybertest/LABURL)
 
+- <b>Powershell</b>
+  - [JWipe - Disk Sanitization()
+
 <h2> 📜 Certifications</h2>
  
 ![comptia-security-ce-certification](https://user-images.githubusercontent.com/118860839/203450750-135c4f88-0301-4261-807f-f2e5e1e20d9c.png)

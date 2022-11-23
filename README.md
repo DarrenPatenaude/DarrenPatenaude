@@ -10,8 +10,7 @@
 
 <h2> 📜 Certifications</h2>
  
-Sec+.png
-https://www.credly.com/badges/c364a5b5-3e1b-4324-b719-b417768199e4/public_url
+![images/Sec+.png](https://www.credly.com/badges/c364a5b5-3e1b-4324-b719-b417768199e4/public_url)
 
 ![certified-in-cybersecurity-cc](https://user-images.githubusercontent.com/118860839/203451791-ab3020d9-318b-4249-903b-d630d8867e0b.png)
 https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url

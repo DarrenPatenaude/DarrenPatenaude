@@ -1,4 +1,4 @@
-<h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrenpatenaude/">Aspiring Cyber Security Professional</a>, <a href="(https://www.youtube.com/@driventoxplore)">YouTuber</a> </h1>
+<h1>Hi, I'm Darren! <br/><a href="https://www.linkedin.com/in/darrenpatenaude/">Aspiring Cyber Security Professional</a>, <a href="https://www.youtube.com/@driventoxplore">YouTuber</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 

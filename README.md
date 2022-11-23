@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/darrencybertest/LABURL)
 
 - <b>Powershell</b>
-  - [JWipe - Disk Sanitization](https://github.com/DarrenPatenaude/JWipe)
+  - [DiskWipe - Disk Sanitization](https://github.com/DarrenPatenaude/JWipe)
 
 <h2> 📜 Certifications</h2>
  
@@ -23,15 +23,15 @@ https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url
   
 <h2> 🔗 Connect with me</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="Driven To Xplore | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="Darren Patenaude | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="Darren Patenaude | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Darren Patenaude | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[twitter]: https://twitter.com/joshmadakor
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[twitter]: https://twitter.com/driventoxplore
+[youtube]: https://www.youtube.com/c/@driventoxplore
+[instagram]: https://www.instagram.com/driventoxplore/
+[linkedin]: https://linkedin.com/in/darrenpatenaude
 
 <!--
 **DarrenPatenaude/DarrenPatenaude** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

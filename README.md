@@ -7,6 +7,7 @@
 
 <h2> 📜 Certifications</h2>
  
+![comptia-security-ce-certification](https://user-images.githubusercontent.com/118860839/203450750-135c4f88-0301-4261-807f-f2e5e1e20d9c.png)
 
  
 <h2> 📺 My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>

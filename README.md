@@ -7,7 +7,7 @@
 
 <h2> 📜 Certifications</h2>
   
-<h2> 📺 YouTube Videos (My Creative Side - To Escape The Tech)</h2>
+<h2> 📺 YouTube Videos (My Creative Side To Escape The Tech)</h2>
   
 <h2> 🔗 Connect with me:</h2>
 

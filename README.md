@@ -10,10 +10,11 @@
 
 <h2> 📜 Certifications</h2>
  
-![images/Sec+.png](https://www.credly.com/badges/c364a5b5-3e1b-4324-b719-b417768199e4/public_url)
+![image](https://user-images.githubusercontent.com/118860839/203474116-07e3fb98-c1de-4b09-a218-c8d442e54432.png)
+[ComptTIA Security+](https://www.credly.com/badges/c364a5b5-3e1b-4324-b719-b417768199e4/public_url)
 
-![certified-in-cybersecurity-cc](https://user-images.githubusercontent.com/118860839/203451791-ab3020d9-318b-4249-903b-d630d8867e0b.png)
-https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url
+![image](https://user-images.githubusercontent.com/118860839/203475745-7e09b0c8-a0fc-4a98-8dfc-e2ea069cf579.png)
+[ISC2 Certified in Cybersecurity](https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url)
  
 <h2> 📺 My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>
   

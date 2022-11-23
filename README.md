@@ -34,6 +34,7 @@ https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url
 [linkedin]: https://linkedin.com/in/darrenpatenaude
 
 
+<!--
 
 Here are some ideas to get you started:
 

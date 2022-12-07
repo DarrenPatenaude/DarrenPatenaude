@@ -16,7 +16,7 @@
 ![image](https://user-images.githubusercontent.com/118860839/203475745-7e09b0c8-a0fc-4a98-8dfc-e2ea069cf579.png)
 [ISC2 Certified in Cybersecurity](https://www.credly.com/badges/27dd015e-194d-4f08-a3ab-72d6060aeef4/public_url)
  
-<h2> 📺 My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>
+<h2> 📺 Some of My Popular YouTube Videos (My Creative Side To Escape The Tech)</h2>
   
 - [The Grotto](https://www.youtube.com/watch?v=_UkSZ-UgrO8)
 - [Harrison Lake to Nahatlatch Lake (Almost)](https://www.youtube.com/watch?v=ujPKglW9_qQ)

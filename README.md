@@ -6,7 +6,7 @@
   - [Active Directory Home Lab](https://github.com/darrencybertest/LABURL)
 
 - <b>Powershell</b>
-  - [DiskWipe - Disk Sanitization](https://github.com/DarrenPatenaude/JWipe)
+ 
 
 <h2> 📜 Certifications</h2>
  
